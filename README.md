@@ -34,13 +34,6 @@ Weather-App/
 ├── humidity.png
 └── wind.png
 
-## Installation
-
-Clone the repository using the following command:
-
-```
-git clone https://github.com/shiprasonal/Weather-App.git
-```
 
 
 
