@@ -42,38 +42,5 @@ Clone the repository using the following command:
 git clone https://github.com/shiprasonal/Weather-App.git
 ```
 
-Open the cloned project folder and launch `index.html` in your web browser.
-
-**Repository Link:** [Kanban Board](https://github.com/shiprasonal/Kanban-Board)
-
-🔎 How to Use
-- Type a city name (for example, Patna or Muzaffarpur) into the search box.
-
-- Click the Search button or press Enter.
-
-- View the updated weather icon, temperature, humidity, and wind speed.
-
-- Enter an invalid city name to see the error message.
-
-💡 What I Learned
-Fetching real-time API data with JavaScript fetch() and async/await.
-
-Handling API response status codes (such as 404) and error states.
-
-Manipulating DOM elements dynamically to update temperature, humidity, wind speed, and icons.
-
-Supporting both button click and Enter keyboard events for user input.
-
-Building a clean, responsive card UI using HTML and CSS.
-
-👩‍💻 Author
-
-**Shipra Sonal**
-
-[GitHub](https://github.com/shiprasonal) · [LinkedIn](https://www.linkedin.com/in/shipra-sonal-554a50258)
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
 
 
