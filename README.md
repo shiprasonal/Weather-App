@@ -38,34 +38,37 @@ Weather-App/
 
 Clone the repository using the following command:
 
+```bash
 git clone https://github.com/shiprasonal/Weather-App.git
 
-Open the cloned project folder and launch `index.html` in your web browser.
+Open the cloned project folder and launch index.html in your web browser.
 
-**Repository Link:** [Weather App](https://github.com/shiprasonal/Weather-App)
+Repository Link: Weather App
 
-## 🔎 How to Use
+🔎 How to Use
+Type a city name (for example, Patna or Muzaffarpur) into the search box.
 
-1. Type a city name (for example, `Patna` or `Muzaffarpur`) into the search box.
-2. Click the **Search** button or press **Enter**.
-3. View the updated weather icon, temperature, humidity, and wind speed.
-4. Enter an invalid city name to see the error message.
+Click the Search button or press Enter.
 
-## 💡 What I Learned
+View the updated weather icon, temperature, humidity, and wind speed.
 
-- Fetching real-time API data with JavaScript `fetch()` and `async`/`await`.
-- Handling API response status codes (such as `404`) and error states.
-- Manipulating DOM elements dynamically to update temperature, humidity, wind speed, and icons.
-- Supporting both button click and `Enter` keyboard events for user input.
-- Building a clean, responsive card UI using HTML and CSS.
+Enter an invalid city name to see the error message.
 
-## 👩‍💻 Author
+💡 What I Learned
+Fetching real-time API data with JavaScript fetch() and async/await.
 
-**Shipra Sonal**
+Handling API response status codes (such as 404) and error states.
 
-[GitHub](https://github.com/shiprasonal) · [LinkedIn](https://www.linkedin.com/in/shipra-sonal-554a50258)
+Manipulating DOM elements dynamically to update temperature, humidity, wind speed, and icons.
 
----
+Supporting both button click and Enter keyboard events for user input.
+
+Building a clean, responsive card UI using HTML and CSS.
+
+👩‍💻 Author
+Shipra Sonal
+
+GitHub · LinkedIn
 
 ⭐ If you find this project interesting, feel free to explore the repository!
 
