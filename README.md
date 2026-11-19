@@ -33,7 +33,3 @@ Weather-App/
 ├── mist.png
 ├── humidity.png
 └── wind.png
-
-
-
-
