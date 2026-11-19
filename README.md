@@ -66,4 +66,14 @@ Supporting both button click and Enter keyboard events for user input.
 
 Building a clean, responsive card UI using HTML and CSS.
 
+## 👩‍💻 Author
+
+**Shipra Sonal**
+
+[GitHub](https://github.com/shiprasonal) · [LinkedIn](https://www.linkedin.com/in/shipra-sonal-554a50258)
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository!
+
 
