@@ -35,37 +35,4 @@ Weather-App/
 └── wind.png
 
 
-## 🚀 Installation
 
-Clone the repository using the following command:
-
-```bash
-git clone [https://github.com/shiprasonal/Weather-App.git](https://github.com/shiprasonal/Weather-App.git)
-Open the cloned project folder and launch index.html in your web browser (or run via Live Server).
-
-Repository Link: Weather App
-
-🔍 How to Use
-Type a city name (for example, Patna or Muzaffarpur) into the search box.
-
-Click the Search button or press Enter.
-
-View the updated weather icon, temperature, humidity, and wind speed.
-
-Enter an invalid city name to see the error message.
-
-💡 What I Learned
-Fetching asynchronous API data with async/await and fetch().
-
-Handling HTTP status codes (such as 404) and updating UI visibility dynamically.
-
-Converting temperature units and formatting DOM elements cleanly.
-
-Supporting both click and Enter keyboard events for a smoother user experience.
-
-👩‍💻 Author
-Shipra Sonal
-
-GitHub · LinkedIn
-
-⭐ If you find this project interesting, feel free to explore the repository!
