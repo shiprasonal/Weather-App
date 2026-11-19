@@ -46,7 +46,7 @@ Open the cloned project folder and launch `index.html` in your web browser.
 
 **Repository Link:** [Kanban Board](https://github.com/shiprasonal/Weather-App)
 
-## 🔎 How to Use
+🔎 How to Use
 - Type a city name (for example, Patna or Muzaffarpur) into the search box.
 
 - Click the Search button or press Enter.
@@ -55,7 +55,7 @@ Open the cloned project folder and launch `index.html` in your web browser.
 
 - Enter an invalid city name to see the error message.
 
-## 💡 What I Learned
+💡 What I Learned
 Fetching real-time API data with JavaScript fetch() and async/await.
 
 Handling API response status codes (such as 404) and error states.
@@ -66,7 +66,7 @@ Supporting both button click and Enter keyboard events for user input.
 
 Building a clean, responsive card UI using HTML and CSS.
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Shipra Sonal**
 
