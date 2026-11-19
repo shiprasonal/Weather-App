@@ -44,7 +44,7 @@ git clone https://github.com/shiprasonal/Weather-App.git
 
 Open the cloned project folder and launch `index.html` in your web browser.
 
-**Repository Link:** [Kanban Board](https://github.com/shiprasonal/Weather-App)
+**Repository Link:** [Kanban Board](https://github.com/shiprasonal/Kanban-Board)
 
 🔎 How to Use
 - Type a city name (for example, Patna or Muzaffarpur) into the search box.
